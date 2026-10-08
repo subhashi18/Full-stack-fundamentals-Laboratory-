@@ -1,0 +1,24 @@
+hr {
+    border: none;
+    height: 2px;
+    background-color: rgb(234, 54, 54);
+}
+.Home {
+    color: rgb(237, 76, 76);
+}
+
+section {
+    p{
+        color: gray;
+    }
+}
+
+.short-line { 
+    width: 120px;
+    height: 3px;
+    background-color: rgb(229, 91, 91);
+    margin-top: 1px;
+
+
+}
+    
